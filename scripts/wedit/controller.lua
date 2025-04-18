@@ -316,8 +316,6 @@ function controller.update(args)
     mcontroller.controlParameters({
       gravityEnabled = false,
       collisionEnabled = false,
-      standingPoly = {},
-      crouchingPoly = {},
       mass = 0,
       runSpeed = 0,
       walkSpeed = 0,
